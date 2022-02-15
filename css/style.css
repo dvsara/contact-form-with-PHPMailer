@@ -1,0 +1,15 @@
+html {
+    padding-top: 100px;
+}
+
+.contactform {
+    max-width: 640px;
+    height: auto;
+    margin: auto;
+}
+
+.error {
+    color: #FF0000;
+    margin-left: 10px;
+    ;
+}
